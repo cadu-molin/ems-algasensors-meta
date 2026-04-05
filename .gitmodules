@@ -1,0 +1,12 @@
+[submodule "microservices/ems-algasensors-temperature-processing"]
+	path = microservices/ems-algasensors-temperature-processing
+	url = git@github.com:cadu-molin/ems-algasensors-temperature-processing.git
+[submodule "microservices/ems-algasensors-temperature-monitoring"]
+	path = microservices/ems-algasensors-temperature-monitoring
+	url = git@github.com:cadu-molin/ems-algasensors-temperature-monitoring.git
+[submodule "ems-algasensors-management"]
+	path = ems-algasensors-management
+	url = git@github.com:cadu-molin/ems-algasensors-management.git
+[submodule "microservices/ems-algasensors-management"]
+	path = microservices/ems-algasensors-management
+	url = git@github.com:cadu-molin/ems-algasensors-management.git
