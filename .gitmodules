@@ -7,6 +7,6 @@
 	url = git@github.com:cadu-molin/ems-algasensors-temperature-processing.git
 	branch = main
 [submodule "microservices/device-management"]
-	path = microservices/git
+	path = microservices/device-management
 	url = git@github.com:cadu-molin/ems-algasensors-management.git
 	branch = main
